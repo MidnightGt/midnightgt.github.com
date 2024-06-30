@@ -1,1 +1,1 @@
-# midnightgt.github.com
+Official MidnightGt Website
